@@ -1,0 +1,17 @@
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\bin\Debug\net10.0-windows\w02p02.exe
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\bin\Debug\net10.0-windows\w02p02.deps.json
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\bin\Debug\net10.0-windows\w02p02.runtimeconfig.json
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\bin\Debug\net10.0-windows\w02p02.dll
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\bin\Debug\net10.0-windows\w02p02.pdb
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\w02p02.Form1.resources
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\w02p02.csproj.GenerateResource.cache
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\w02p02.GeneratedMSBuildEditorConfig.editorconfig
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\w02p02.AssemblyInfoInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\w02p02.AssemblyInfo.cs
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\w02p02.csproj.CoreCompileInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\w02p02.dll
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\refint\w02p02.dll
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\w02p02.pdb
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\w02p02.genruntimeconfig.cache
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\ref\w02p02.dll
+C:\== PROGRAMOWANIE ==\2026-27\wizualne_syst_programowania_wyklad\w02p02\w02p02\obj\Debug\net10.0-windows\w02p02.csproj.Up2Date

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w05-wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F23CBA-A9AD-4B63-A22A-4D46B38757FF}|w05-wpf\\w05-wpf.csproj|c:\\== programowanie ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w05-wpf\\w05-wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6F23CBA-A9AD-4B63-A22A-4D46B38757FF}|w05-wpf\\w05-wpf.csproj|solutionrelative:w05-wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F23CBA-A9AD-4B63-A22A-4D46B38757FF}|w05-wpf\\w05-wpf.csproj|c:\\== programowanie ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w05-wpf\\w05-wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F23CBA-A9AD-4B63-A22A-4D46B38757FF}|w05-wpf\\w05-wpf.csproj|solutionrelative:w05-wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w05-wpf\\w05-wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "w05-wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w05-wpf\\w05-wpf\\MainWindow.xaml*",
+              "RelativeToolTip": "w05-wpf\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T07:29:29.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w05-wpf\\w05-wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "w05-wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w05-wpf\\w05-wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "w05-wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T07:29:26.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

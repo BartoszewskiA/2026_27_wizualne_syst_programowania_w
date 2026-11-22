@@ -1,0 +1,17 @@
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\bin\Debug\net10.0-windows\w04p03-timer.exe
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\bin\Debug\net10.0-windows\w04p03-timer.deps.json
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\bin\Debug\net10.0-windows\w04p03-timer.runtimeconfig.json
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\bin\Debug\net10.0-windows\w04p03-timer.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\bin\Debug\net10.0-windows\w04p03-timer.pdb
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\w04p03_timer.Form1.resources
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\w04p03-timer.csproj.GenerateResource.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\w04p03-timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\w04p03-timer.AssemblyInfoInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\w04p03-timer.AssemblyInfo.cs
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\w04p03-timer.csproj.CoreCompileInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\w04p03-timer.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\refint\w04p03-timer.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\w04p03-timer.pdb
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\w04p03-timer.genruntimeconfig.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\ref\w04p03-timer.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_w\w04p03-timer\w04p03-timer\obj\Debug\net10.0-windows\w04p03-t.BC3D9EF9.Up2Date

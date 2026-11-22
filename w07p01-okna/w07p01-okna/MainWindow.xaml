@@ -1,0 +1,55 @@
+﻿<Window x:Class="w07p01_okna.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:w07p01_okna"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock 
+            x:Name="textBlock"
+            Grid.Row="0" 
+            Text="Okna dialogowe" 
+            FontSize="24" 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center"
+            TextWrapping="Wrap"/>
+    <Button 
+        x:Name="btn_otwieranie_pliku"
+        Grid.Row="4"
+        Content="Otwórz okno otwierania pliku"
+        FontSize="22" 
+        Click="btn_otwieranie_pliku_Click"
+        />
+        <Button 
+        x:Name="btn_zapios_dozapis_pliku"
+        Grid.Row="3"
+        Content="Otwórz okno zapisu d pliku"
+        FontSize="22" 
+        Click="btn_zapios_dozapis_pliku_Click"
+        />
+        <Button 
+        x:Name="btn_wybor_fontowu"
+        Grid.Row="2"
+        Content="Otwórz okno wyboru fontów"
+        FontSize="22" 
+        Click="btn_wybor_fontowu_Click"
+        />
+        <Button 
+        x:Name="btn_wybor_koloru"
+        Grid.Row="1"
+        Content="Otwórz okno wyboru koloru"
+        FontSize="22" 
+   Click="btn_wybor_koloru_Click"
+        />
+
+    </Grid>
+</Window>

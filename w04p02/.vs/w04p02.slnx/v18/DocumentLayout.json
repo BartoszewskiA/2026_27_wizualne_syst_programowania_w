@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w04p02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCA7A79-BFD8-4D01-A741-4C25C7C1933E}|w04p02\\w04p02.csproj|c:\\== programowanie ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w04p02\\w04p02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCCA7A79-BFD8-4D01-A741-4C25C7C1933E}|w04p02\\w04p02.csproj|solutionrelative:w04p02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCA7A79-BFD8-4D01-A741-4C25C7C1933E}|w04p02\\w04p02.csproj|c:\\== programowanie ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w04p02\\w04p02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCA7A79-BFD8-4D01-A741-4C25C7C1933E}|w04p02\\w04p02.csproj|solutionrelative:w04p02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w04p02\\w04p02\\Form1.cs",
+              "RelativeDocumentMoniker": "w04p02\\Form1.cs",
+              "ToolTip": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w04p02\\w04p02\\Form1.cs",
+              "RelativeToolTip": "w04p02\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T06:50:08.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w04p02\\w04p02\\Form1.cs",
+              "RelativeDocumentMoniker": "w04p02\\Form1.cs",
+              "ToolTip": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_w\\w04p02\\w04p02\\Form1.cs [Projekt]",
+              "RelativeToolTip": "w04p02\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T06:48:19.835Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
